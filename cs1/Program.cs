@@ -13,6 +13,7 @@ namespace cs1
             Console.WriteLine("cs1");
             Console.WriteLine("a1_add_1");
             Console.WriteLine("b1_add_1");
+            Console.WriteLine("b2_add_1");
             Console.Read();
         }
     }
