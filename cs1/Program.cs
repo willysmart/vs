@@ -11,6 +11,7 @@ namespace cs1
         static void Main(string[] args)
         {
             Console.WriteLine("cs1");
+            Console.WriteLine("a1_add_1");
             Console.Read();
         }
     }
