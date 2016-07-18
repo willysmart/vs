@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace com.lau.Abstract
+namespace cs1
 {
     class Program
     {

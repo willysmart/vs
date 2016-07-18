@@ -6,10 +6,15 @@ using System.Threading.Tasks;
 
 namespace com.lau.Abstract
 {
-    class Program
+    public class Extra
     {
-        static void Main(string[] args)
+        public Extra()
         {
+            Console.WriteLine("calling cs1.Extra()");
+        }
+        public string show()
+        {
+            return "Extra";
         }
     }
 }
